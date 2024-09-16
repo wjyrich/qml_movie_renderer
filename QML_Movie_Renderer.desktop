@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Accessibility;Qt;Utility;
+Exec=QML_Movie_Renderer
+Name=QML_Movie_Renderer
+Name[zh_CN]=QML_Movie_Renderer
+Icon=QML_Movie_Renderer
+StartupNotify=false
+Terminal=false
+Type=Application
+GenericName=QML_Movie_Renderer
+Version=1.0

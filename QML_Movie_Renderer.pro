@@ -13,3 +13,11 @@ HEADERS += \
 
 FORMS += \
     movierendererwindow.ui
+
+target.path = $$PREFIX/bin
+desktop.files = QML_Movie_Renderer.desktop
+desktop.path = $$PREFIX/share/applications/
+icons.path = $$PREFIX/share/icons/hicolor/apps/
+icons.files = QML_Movie_Renderer.png
+
+INSTALLS += target desktop icons
